@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjj-hohai&layout=compact)](https://github.com/zjj-hohai/github-readme-stats)
+![zjj-hohai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjj-hohai&show_icons=true&theme=tokyonight)
